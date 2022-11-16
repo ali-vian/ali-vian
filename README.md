@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Muhammad Alivian Sidiq
 - 👀 I’m interested in Programming 
 - 🌱 I’m learning at University of Trunojoyo majoring in Informatics Engineering 
-- 💞️ I’m looking to collaborate on anyway
 - 📫 How to reach me alivian7373@gmail.com
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
